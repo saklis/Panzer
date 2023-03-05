@@ -32,6 +32,7 @@ https://funthingshappen.itch.io/panzer
 <img src="doc/screen1.jpg" width="320" />
 <img src="doc/screen2.jpg" width="320" />
 <img src="doc/screen4.jpg" width="320" />
+<img src="doc/screen5.jpg" width="320" />
   </td>
 </tr>
 </table>
