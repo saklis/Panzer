@@ -26,9 +26,6 @@ https://funthingshappen.itch.io/panzer
 
 There's also a YouTube series about the creation process behind the game  
 https://www.youtube.com/playlist?list=PLfvzVqACVYiYJGH1bllJK7QN3jeBiE43V
-
-The game's available on itch.io, too!  
-https://funthingshappen.itch.io/panzer
   </td>
   <td>
 <img src="doc/screen1.jpg" width="320" />
